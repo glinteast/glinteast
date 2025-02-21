@@ -16,11 +16,6 @@
 
 ### ✍️ Random Dev Joke.
 
-
-  &nbsp; &nbsp; &nbsp; &nbsp; A SQL query goes into a bar, walks up to two tables, and asks...
-  
-  &nbsp; &nbsp; &nbsp; &nbsp; Can I JOIN you? 😂 😄
-
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=the-1Riddle&label=Profile%20Views&color=9&pretty=true)](https://github.com/the1Riddle) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
